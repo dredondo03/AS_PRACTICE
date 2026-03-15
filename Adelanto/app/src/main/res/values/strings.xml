@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Adelanto</string>
+=======
+    <string name="app_name">Scaffold</string>
+>>>>>>> dee74de67e220b54985649c0c4199e4e159bdcb9
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<<<<<<< HEAD
+    <style name="Theme.New_AS" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+<<<<<<< HEAD
+    <style name="Theme.Adelanto" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Scaffold" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> dee74de67e220b54985649c0c4199e4e159bdcb9
+>>>>>>> 0dfa9243487714fa4e63038c52beaaa388f1068b
+</resources>

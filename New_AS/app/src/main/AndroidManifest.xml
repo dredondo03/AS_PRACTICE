@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+<<<<<<< HEAD
+        android:theme="@style/Theme.New_AS"
+        tools:targetApi="31">
+=======
+<<<<<<< HEAD
+        android:theme="@style/Theme.Adelanto">
+=======
+        android:theme="@style/Theme.Scaffold">
+>>>>>>> dee74de67e220b54985649c0c4199e4e159bdcb9
+>>>>>>> 0dfa9243487714fa4e63038c52beaaa388f1068b
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+<<<<<<< HEAD
+            android:theme="@style/Theme.New_AS">
+=======
+<<<<<<< HEAD
+            android:theme="@style/Theme.Adelanto">
+=======
+            android:theme="@style/Theme.Scaffold">
+>>>>>>> dee74de67e220b54985649c0c4199e4e159bdcb9
+>>>>>>> 0dfa9243487714fa4e63038c52beaaa388f1068b
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
